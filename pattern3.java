@@ -1,4 +1,4 @@
-package Pattern;
+package codes;
 
 import java.util.Iterator;
 
